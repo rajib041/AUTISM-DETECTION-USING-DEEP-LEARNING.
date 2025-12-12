@@ -1,0 +1,16 @@
+{
+  "test_accuracy": 0.6322869955156951,
+  "balanced_accuracy": 0.6310789049919485,
+  "f1_score": 0.6095238095238096,
+  "roc_auc": 0.70829307568438,
+  "n_features": 44,
+  "n_train": 889,
+  "n_test": 223,
+  "total_parameters": 369914,
+  "architecture": "DeepMLP + ResidualNetwork + WideAndDeep + AttentionNetwork",
+  "is_deep_learning": true,
+  "deep_mlp_accuracy": 0.6322869955156951,
+  "residual_net_accuracy": 0.6233183856502242,
+  "wide_deep_accuracy": 0.6367713004484304,
+  "attention_net_accuracy": 0.6322869955156951
+}
